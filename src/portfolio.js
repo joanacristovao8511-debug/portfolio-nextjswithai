@@ -1,4 +1,4 @@
-import aboutpic from "./components/Access/mePhoto.png";
+import aboutpic from "./components/Access/resume.png";
 import roofrulerIMG from "./components/Access/projects/roofruler.jpg";
 import TakaswapIMG from "./components/Access/projects/taka-swap.png";
 import VocyieldIMG from "./components/Access/projects/voc-yield.png";
